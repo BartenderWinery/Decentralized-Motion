@@ -26,9 +26,9 @@ The absolute focus for this project is to mimic the chaos that is our reality, a
 - 9D. -Not yet underway
 
 # Explanation of all realitys
-1D. 1D: 
+1. 1D: 
     - Pure system, text.
-2D. 2D: 
+2. 2D: 
     - Flat system with position, scale, and imaginary time.
 3. 3D: 
     - Spatial system with imginary time, not effected by constant flow.
