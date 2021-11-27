@@ -15,29 +15,38 @@ The absolute focus for this project is to mimic the chaos that is our reality, a
 ***
 
 # Reality dimensions
-1D. -Not yet underway
-2D. -Not yet underway
-3D. -Currently being worked on
-4D. -Not yet underway
-5D. -Not yet underway
-6D. -Not yet underway
-7D. -Not yet underway
-8D. -Not yet underway
-9D. -Not yet underway
+- 1D. -Not yet underway
+- 2D. -Not yet underway
+- 3D. -Currently being worked on
+- 4D. -Not yet underway
+- 5D. -Not yet underway
+- 6D. -Not yet underway
+- 7D. -Not yet underway
+- 8D. -Not yet underway
+- 9D. -Not yet underway
 
 # Explanation of all realitys
-1D: Pure system, text.
-2D: Flat system with position, scale, and imaginary time.
-3D: Spatial system with imginary time, not effected by constant flow.
-4D: The temporal dimension that we exist in, random chaos among chaos.
+1D. 1D: 
+    - Pure system, text.
+2D. 2D: 
+    - Flat system with position, scale, and imaginary time.
+3. 3D: 
+    - Spatial system with imginary time, not effected by constant flow.
+4. 4D: 
+    - The temporal dimension that we exist in, random chaos among chaos.
 
 ***
 Dimensions beyond this point are theoretically impossible to exist.
 
-5D: Alternative/Parallel reality
-6D: Multiverse
-7D: Impossibily complex reality; new natures of reality and physics.
-8D: Infinity
-9D: A constant collapsing system of all and any rules and natures.
+5. 5D: 
+    - Alternative/Parallel reality
+6. 6D: 
+    - Multiverse
+7. 7D: 
+    - Impossibily complex reality; new natures of reality and physics.
+8. 8D: 
+    - Infinity
+9. 9D: 
+    - A constant collapsing system of all and any rules and natures.
 
 ***
