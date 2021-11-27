@@ -16,8 +16,8 @@ The absolute focus for this project is to mimic the chaos that is our reality, a
 
 # Reality dimensions
 - 1D. -Not yet underway
-- 2D. -Not yet underway
-- 3D. -Currently being worked on
+- 2D. -Currently being worked on
+- 3D. -Not yet underway
 - 4D. -Not yet underway
 - 5D. -Not yet underway
 - 6D. -Not yet underway
